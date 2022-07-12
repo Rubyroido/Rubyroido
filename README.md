@@ -1,7 +1,7 @@
 ## Hello there 👋
 ![image](https://user-images.githubusercontent.com/92789723/178458544-5acc2aa8-4a6a-43d4-a989-4f6fe6ca4790.png)
 # I'm Stas
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Novice web-developer from Russia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Novice+web-developer+from+Russia.)](https://git.io/typing-svg)
 
 ## Currently studying at Yandex.Practicum.
 Want to become a good programmer.
