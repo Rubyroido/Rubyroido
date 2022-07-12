@@ -1,5 +1,5 @@
 ## Hello there 👋
-[![image](https://user-images.githubusercontent.com/92789723/178458544-5acc2aa8-4a6a-43d4-a989-4f6fe6ca4790.png)](https://i.redd.it/23slx70fr67z.gif)
+![23slx70fr67z](https://user-images.githubusercontent.com/92789723/178463877-ed7e6563-92ae-435e-9c39-55b73f42009c.gif)
 # I'm Stas
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Novice+web-developer+from+Russia.)](https://git.io/typing-svg)
 
