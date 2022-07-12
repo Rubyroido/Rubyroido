@@ -1,10 +1,10 @@
-### Hello there 👋
+## Hello there 👋
 ![image](https://user-images.githubusercontent.com/92789723/178458544-5acc2aa8-4a6a-43d4-a989-4f6fe6ca4790.png)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm Stas, novice web-developer from Russia.)](https://git.io/typing-svg)
-
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm Stas, novice web-developer from Russia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 ## Currently studying at Yandex.Practicum.
-# Want to become a good programmer.
+### Want to become a good programmer.
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Rubyroido)  
 
 ## My stack is:
