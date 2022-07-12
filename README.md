@@ -5,6 +5,7 @@
 
 ## Currently studying at Yandex.Practicum.
 Want to become a good programmer.
+
 [![codewars](https://www.codewars.com/users/Rubyroido/badges/large)](https://www.codewars.com/users/Rubyroido)  
 
 ## My stack is:
