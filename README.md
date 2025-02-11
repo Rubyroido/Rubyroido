@@ -3,9 +3,6 @@
 # I'm Stas
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Novice+web-developer+from+Russia.)](https://git.io/typing-svg)
 
-## Copleted studying at Yandex.Practicum.
-Want to become a good programmer.
-
 [![codewars](https://www.codewars.com/users/Rubyroido/badges/small)](https://www.codewars.com/users/Rubyroido)  
 [![LeetCode user /Rubyroido](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2F%2FRubyroido&logo=leetcode&logoColor=yellow)](https://leetcode.com//Rubyroido/)
 
