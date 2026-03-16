@@ -1,7 +1,7 @@
 ## Hello there 👋
 ![23slx70fr67z](https://user-images.githubusercontent.com/92789723/178463877-ed7e6563-92ae-435e-9c39-55b73f42009c.gif)
 # I'm Stas
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web-developer+from+Russia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=FE-developer+from+Russia.)](https://git.io/typing-svg)
 
 [![codewars](https://www.codewars.com/users/Rubyroido/badges/small)](https://www.codewars.com/users/Rubyroido)  
 
